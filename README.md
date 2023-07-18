@@ -68,4 +68,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or suggestions, please feel free to reach out to the project owner [Anjali](#https://github.com/anjali9156).
+For any inquiries or suggestions, please feel free to reach out to the project owner [Anjali](https://github.com/anjali9156).
